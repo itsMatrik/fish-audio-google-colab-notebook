@@ -1,1 +1,1 @@
-hello world
+This is fork from original fish-speech (https://github.com/fishaudio/fish-speech). This is google colab notebook version because original repo dont have it. Fully working and ready to use. Just run commands line-by-line. You can get hugginfFace token here: https://huggingface.co/settings/tokens (first you need to create an account and subscribe on s1-mini model on huggingFace model page (its free)). If something is not working chatGPT is free
